@@ -7,3 +7,7 @@ be
 my
 first trial project'''
 print(a)
+print("Thank you for viewing my repository")
+print("trial")
+
+print("updated")
